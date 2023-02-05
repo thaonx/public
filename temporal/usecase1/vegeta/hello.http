@@ -1,0 +1,4 @@
+POST http://localhost:9000/hello
+Accept: application/json
+Content-Type: application/json
+@hello.request.json

@@ -1,0 +1,1 @@
+vegeta attack -duration=10 -rate=100 --targets ./hello.http | vegeta report --type=text
